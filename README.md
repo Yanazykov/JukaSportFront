@@ -9,7 +9,7 @@
 ## Sistema **ERP** para Juka Sport
 
 El proyecto ERP de Juka Sport transformará la gestión empresarial al integrar tareas operativas de distintos departamentos en una sola plataforma segura y eficiente.\
-[Diseño de Figma](https://www.figma.com/file/7uUHCJ7YhJEoB24EZ00lXC/240405-LVDA-IV?type=design&node-id=0-1&mode=design&t=CUK9cH8DXhKXx31U-0)
+[Diseño de Figma](https://www.figma.com/design/q2Wmi4Ymiswz6XTd1mN9vu/Juka-Sport?node-id=17%3A180&t=EJ1MfL6nnu7JuYKz-1)
 
 </div>
 
